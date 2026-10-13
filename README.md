@@ -143,8 +143,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 <p align="center">
-  Designed and developed by **Anirban Banerjee**<br>
-  *Learning, Living, and Leveling Up.*
+  Designed and developed by "Anirban Banerjee"<br>
+  Learning, Living, and Leveling Up.
+   Code • Coffee • Repeat ☕💻
 </p>
-
-Code • Coffee • Repeat ☕💻
